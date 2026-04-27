@@ -1,6 +1,4 @@
-This is a solid start for a financial utility API! You’re using **FastAPI** for its speed and **yfinance** to tap into Yahoo Finance data.
 
-Below is a professional, high-quality **README.md** tailored to your specific code logic. It highlights the functionality, provides clear setup instructions, and adds a professional touch to your GitHub profile.
 
 ---
 
@@ -35,7 +33,7 @@ This project simplifies stock analysis by fetching key financial metrics and pro
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/NSE-Stock-Suggest-API.git
+    git clone https://github.com/your-username/nse-stock-suggest-api.git
     cd NSE-Stock-Suggest-API
     ```
 
